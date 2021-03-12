@@ -1,0 +1,4 @@
+May 30, 2020 3:32:42 PM APP.CourseCalendarApp run
+INFO: print the teachers.
+May 30, 2020 3:32:58 PM APP.CourseCalendarApp run
+INFO: end.

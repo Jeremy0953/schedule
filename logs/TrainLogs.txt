@@ -1,0 +1,4 @@
+May 30, 2020 12:59:56 PM APP.TrainScheduleApp run
+INFO: print the trains.
+May 30, 2020 1:00:08 PM APP.TrainScheduleApp run
+INFO: end

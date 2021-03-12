@@ -1,0 +1,13 @@
+flight:2020-01-01,CX388
+{
+DepartureAirport:Hefei
+ArrivalAirport:Shenyang
+DepatureTime:2020-01-01 14:13
+ArrivalTime:2020-01-01 20:12
+Plane:N3330
+{
+Type:B767
+Seats:289
+Age:3.1
+}
+}

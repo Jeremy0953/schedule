@@ -1,0 +1,11 @@
+Jun 02, 2020 9:48:11 PM APP.FlightScheduleApp run
+WARNING: N1369 has different items.Solution:change a file path.
+Exceptions.DifferentPlaneDependenceException: N1369 has different items.
+	at APP.FlightScheduleApp.readFromFile(FlightScheduleApp.java:1262)
+	at APP.FlightScheduleApp.run(FlightScheduleApp.java:567)
+	at Test.main(Test.java:57)
+
+Jun 02, 2020 9:48:27 PM APP.FlightScheduleApp run
+INFO: open a file.
+Jun 02, 2020 9:50:03 PM APP.FlightScheduleApp run
+INFO: end
